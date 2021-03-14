@@ -1,4 +1,4 @@
-This code is written by Abdussamet Türker 2020.12.10 for education.
+This code is written by Abdussamet Türker 2020.12.10.
 
 
 
